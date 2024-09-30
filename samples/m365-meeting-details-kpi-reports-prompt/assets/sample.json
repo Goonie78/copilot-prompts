@@ -1,0 +1,41 @@
+[
+  {
+    "name": "m365-meeting-details-kpi-reports-prompt",
+    "source": "pnp",
+    "title": "Analyze Calendars and Chats and Give KPIs for Reporting",
+    "shortDescription": "Analyze Calendars and Emails, Chats, and KPIs for Reporting for Team Members",
+    "url": "https://github.com/pnp/copilot-prompts/tree/main/samples/m365-meeting-details-kpi-reports-prompt",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/copilot-prompts/tree/main/samples/m365-meeting-details-kpi-reports-prompt",
+    "longDescription": [
+      "This is a prompt that will analyze users that have shared calendars with you and provide a summary of their meetings and then review email and chat correspondence with summary."
+    ],
+    "creationDateTime": "2024-09-27",
+    "updateDateTime": "2024-09-27",
+    "products": [
+      "Copilot for Microsoft 365"
+    ],
+    "metadata": [],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/copilot-prompts/raw/main/samples/m365-meeting-details-kpi-reports-prompt/assets/demo.png",
+        "alt": "Analyze Calendars and Chats and Give KPIs for Reporting"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "Goonie78",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/37123994?v=4",
+        "name": "Brad Chaney"
+      }
+    ],
+    "references": [
+      {
+        "name": "Microsoft Copilot",
+        "description": "Microsoft Copilot",
+        "url": "https://copilot.microsoft.com/"
+      }
+    ]
+  }
+]
